@@ -1,0 +1,11 @@
+dveloped by suleiman yahya garo
+
+How to run ALty News Project
+
+
+run the script http://localhost/Alty-News (Website)
+ For admin panel  http://localhost/Alty-News/admin
+
+credential for admin panel :
+username / email : admin
+Password : Test@12345
