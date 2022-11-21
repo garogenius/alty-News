@@ -31,10 +31,10 @@ include('includes/config.php');
 
     <!-- Page Content -->
     <div class="container">
-
-
-     
-      <div class="row" style="margin-top: 8%">
+<!-- <center>
+    <img style="width:500px; height:200px;" src="images/mlogo.png" alt="">
+     <center> -->
+      <div class="row" style="margin-top: 1%">
 
         <!-- Blog Entries Column -->
         <div class="col-md-8">

@@ -1,4 +1,5 @@
 dveloped by suleiman yahya garo
+language used: Php
 
 How to run ALty News Project
 
